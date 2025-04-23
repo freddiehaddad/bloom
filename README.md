@@ -10,12 +10,13 @@ no loss of quality due to compression.
 
 ## Direct links to the files.
 
-- [5120x1440] - desktop wallpaper
-- [5120x2160] - desktop wallpaper
-- [5160x2160] - desktop wallpaper
-- [gimp] - original GIMP source file
+### Wallpapers
 
-[5120x1440]: bloom_5120x1440.png
-[5120x2160]: bloom_5120x2160.png
-[5160x2160]: bloom_5160x2160.png
-[gimp]: bloom.xcf
+- [5120x1440](bloom_5120x1440.png)
+- [5120x2160](bloom_5120x2160.png)
+- [5160x2160](bloom_5160x2160.png)
+
+### Gimp 3.x source files
+
+- [5120x1440](bloom_5120x1440.xcf)
+- [5160x2160](bloom_5160x2160.xcf)
